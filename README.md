@@ -5,8 +5,7 @@
 Bachelor of Information Systems - UNIFAFIBE (2013-2016), Technical Course in Informatics - ETEC (2010-2012).
 I work as a developer with Microsoft's technology stack (ASP.NET MVC, .NET Core, Web API and SPA Angular).
 
-I am currently developing projects with technologies like Angular, APIs (.Net Core 5, NodeJS, Python), Docker, Kubernetes and SQL Cloud.
-Cloud Plataforms like AWS and GCP.
+I am currently developing projects with technologies like Angular, APIs (.Net Core 5, Node JS, Python), Docker, Kubernetes and SQL Cloud. Hosted on cloud Plataforms like AWS and GCP.
 
 I have experience with ASP.NET Web Forms, ASP.NET MVC, .Net Core, Node, React, Angular, HTML5, CSS3, JavaScript, JQuery, Entity Framework and use of relational databases such as Firebird, MySql, PostgresSql and SqlServer. (Working on the front-end and back-end of the applications).
 Source Code Control on TFS, VSTS and GITHUB servers.
