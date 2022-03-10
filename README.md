@@ -24,13 +24,15 @@
   <img align="center" alt"Josue-Postgresql" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
   
-  ##
+  -----------------------------------------------------------------------------------------------------------------------------------------------------
   
 <div>
   <a href="mailto:eaglejosue@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josu%C3%A9-monteiro-08163371/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
-
+</div>
+  
+  -----------------------------------------------------------------------------------------------------------------------------------------------------
+  
 Bachelor of Information Systems - UNIFAFIBE (2013-2016), Technical Course in Informatics - ETEC (2010-2012).
 I work as a developer with Microsoft's technology stack (ASP.NET MVC, .NET Core, Web API and SPA Angular).
 
@@ -49,9 +51,7 @@ I also have 4 years of experience working in technical support, serving customer
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Olá!
-
-## Sou Josué Monteiro
+### Olá, sou Josué Monteiro
 
 Bacharel em sistemas de Informação - UNIFAFIBE (2013-2016), curso Técnico em Informática - ETEC (2010-2012).
 Trabalho como desenvolvedor com a pilha tecnológica da Microsoft (ASP.NET MVC, .NET Core, Web API e SPA Angular).
