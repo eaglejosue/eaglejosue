@@ -1,6 +1,35 @@
-### Hello!
+## Hello there, I'm Josué Monteiro
 
-## I'm Josué Monteiro
+<div>
+  <a href="https://github.com/eaglejosue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eaglejosue&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglejosue&layout=compact&langs_count=16&count_private=true&theme=onedark"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt"Josue-Net" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt"Josue-Vs" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt"Josue-Ts" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt"Josue-Js" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt"Josue-Html" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt"Josue-Css" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt"Josue-Azure" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt"Josue-Aws" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt"Josue-Gcp" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain-wordmark.svg">
+  <img align="center" alt"Josue-Docker" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt"Josue-Kubernetes" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt"Josue-Node" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt"Josue-MySql" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt"Josue-Sql" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt"Josue-Postgresql" height="35" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
+  
+  ##
+  
+<div>
+  <a href="mailto:eaglejosue@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/josu%C3%A9-monteiro-08163371/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
 
 Bachelor of Information Systems - UNIFAFIBE (2013-2016), Technical Course in Informatics - ETEC (2010-2012).
 I work as a developer with Microsoft's technology stack (ASP.NET MVC, .NET Core, Web API and SPA Angular).
